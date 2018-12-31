@@ -1,0 +1,4 @@
+python Senmanga.py -m -d D:\Desktop\NEWMEDIA\Tools\Python\Finished\Python_senmanga -u https://raw.senmanga.com/Jisatsutou/100/1
+python Senmanga.py -c -d D:\Desktop\NEWMEDIA\Tools\Python\Finished\Python_senmanga -u https://raw.senmanga.com/Jisatsutou/
+
+Last Tested 31.12.2018 (Day, Month, Year)
